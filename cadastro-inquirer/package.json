@@ -1,0 +1,26 @@
+{
+  "name": "meu-perfil-ts",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "inquirer": "^12.6.3",
+    "readline-sync": "^1.4.10"
+  },
+  "devDependencies": {
+    "@types/chalk": "^0.4.31",
+    "@types/inquirer": "^9.0.8",
+    "@types/node": "^24.0.4",
+    "@types/readline-sync": "^1.4.8",
+    "ts-node": "^10.9.2",
+    "ts-node-dev": "^2.0.0",
+    "typescript": "^5.8.3"
+  },
+  "description": ""
+}

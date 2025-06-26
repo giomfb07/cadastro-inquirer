@@ -1,0 +1,17 @@
+[
+  {
+    "nome": "Maria",
+    "lugar": "Nova York",
+    "aviao": false
+  },
+  {
+    "nome": "Giovanna",
+    "lugar": "Paris",
+    "aviao": true
+  },
+  {
+    "nome": "Angela",
+    "lugar": "Tóquio",
+    "aviao": true
+  }
+]
